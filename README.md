@@ -1,13 +1,10 @@
 <div align="left">
 
-💻 ☁️ Hi, I'm Michel Jatobá! ☁️ 💻 
+- 💻 ☁️ Hi, I'm Michel Jatobá! ☁️ 💻 
 - 🔭 I’m currently working on CSA-Enginner at Microsoft
 - 🌱 I’m learning Cloud Computing always
 - 💬 Ask me about Technology lover
 
-  <img align="center" alt="Michel" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
-  <img align="center" alt="Michel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
-  <img align="center" alt="Michel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 
 <div align="left">

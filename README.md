@@ -1,8 +1,10 @@
-### Hi, I'm Michel Jatobá!
+<div align="left">
 
+Hi, I'm Michel Jatobá!
 - 🔭 I’m currently working on CSA-Enginner at Microsoft
-- 🌱 I’m currently learning Cloud Computing
+- 🌱 I’m learning Cloud Computing always
 - 💬 Ask me about Technology lover
+</div>
 
 <div align="left">
   <a href="https://github.com/micheljatoba">

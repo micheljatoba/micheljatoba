@@ -1,6 +1,6 @@
 ## Olá pessoal, sejam bem vindos ao meu GitHub  ☁️ 💻 
 
-Meu nome é Michel Jatobá, sou especialista em Infraestrutura e Security no Azure e tenho meu blog com contribuições focada na plaforma do Azure.
+Meu nome é Michel Jatobá, sou especialista em Infraestrutura e Security no Azure e tenho meu novo blog com contribuições focada na plaforma do Azure.
 
 [![Michel Jatobá Header](https://img.shields.io/badge/Blog_Mjcloud-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://mjcloud.com.br) [![Michel Jatobá Header](https://img.shields.io/badge/LinkedIn-21759B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micheljatoba/) [![Michel Jatobá Header](https://img.shields.io/badge/YouTube-21759B?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-1C7u0VGdYJY9EaXtTW1eg)
 [![Michel Jatobá Header](https://img.shields.io/badge/Outlook-21759B?style=for-the-badge&logo=microsoft&logoColor=white)](https://mjcloud.com.br/?page_id=95)
@@ -23,7 +23,7 @@ Meu nome é Michel Jatobá, sou especialista em Infraestrutura e Security no Azu
     <img align="center" alt="mjcloud" src="https://img.shields.io/badge/Powershell-21759B?style=for-the-badge&logo=powershell&logoColor=white" />
     <img align="center" alt="mjcloud" src="https://img.shields.io/badge/windows%20terminal-21759B?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
 </div><br/>
-Apaixonado por tecnologia, seguimos com a jornada de compartilhamento de conhecimento para o nosso crescimento e o cresimento do próximo.
+Apaixonado por tecnologia, seguimos com a jornada de compartilhamento de conhecimento para o cresimento do próximo e o nosso!
 
 ### Último Artigos:
 - [Novo artigo](https://mjcloud.com.br)<br/>

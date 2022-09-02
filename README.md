@@ -1,4 +1,4 @@
-### Olá pessoal, sejam bem vindos ao meu GitHub  ☁️ 💻 
+## Olá pessoal, sejam bem vindos ao meu GitHub  ☁️ 💻 
 
 Meu nome é Michel Jatobá, sou especialista em Infraestrutura e Security no Azure e tenho meu blog com contribuições focada na plaforma do Azure.
 
@@ -13,7 +13,7 @@ Meu nome é Michel Jatobá, sou especialista em Infraestrutura e Security no Azu
 
 ![Michel Jatobá stats](https://github-readme-stats.vercel.app/api?username=micheljatoba&show_icons=true&theme=dark&include_all_commits=true&count_private=true) 
 
-## Tecnologias que eu uso no meu dia 
+### Tecnologias que eu uso no meu dia 
 <div style="display: inline_block"><br/>
     <img align="center" alt="mjcloud" src="https://img.shields.io/badge/Microsoft-21759B?style=for-the-badge&logo=microsoft&logoColor=whit" />
     <img align="center" alt="mjcloud" src="https://img.shields.io/badge/Microsoft_Azure-21759B?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
@@ -25,7 +25,7 @@ Meu nome é Michel Jatobá, sou especialista em Infraestrutura e Security no Azu
 </div><br/>
 Apaixonado por tecnologia, seguimos com a jornada de compartilhamento de conhecimento para o nosso crescimento e o cresimento do próximo.
 
-## Último Artigos:
+### Último Artigos:
 - [Novo artigo](https://mjcloud.com.br)<br/>
 - [Novo artigo](https://mjcloud.com.br)<br/>
 - [Novo artigo](https://mjcloud.com.br)<br/>

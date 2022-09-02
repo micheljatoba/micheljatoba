@@ -3,7 +3,7 @@
 Meu nome é Miche Jatobá, sou especialista em Infraestrutura e Security no Azure e tenho meu blog com contribuições focada na plaforma do Azure.
 
 [![Michel Jatobá Header](https://img.shields.io/badge/Blog-Mjcloud-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://mjcloud.com.br) [![Michel Jatobá Header](https://img.shields.io/badge/YouTube-21759B?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-1C7u0VGdYJY9EaXtTW1eg) [![Michel Jatobá Header](https://img.shields.io/badge/LinkedIn-21759B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micheljatoba/)
-[![Michel Jatobá Header](https://img.shields.io/badge/Microsoft_Outlook-21759B?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](suporte@mjcloud.com.br/)
+[![Michel Jatobá Header](https://img.shields.io/badge/Microsoft_Outlook-21759B?style=for-the-badge&logo=microsoft&logoColor=white)](suporte@mjcloud.com.br/)
 
 - ⭐ Sou [Microsoft MVP Reconnect - Microsoft Azure](https://mvp.microsoft.com/pt-br/PublicProfile/5003808?fullName=Michel%20Jatoba)
 

@@ -15,14 +15,14 @@ Meu nome é Miche Jatobá, sou especialista em Infraestrutura e Security no Azur
 
 ## Tecnologias que eu uso no meu dia 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="mjcloud" src="https://img.shields.io/badge/Microsoft-4D4D4D?style=for-the-badge&logo=microsoft&logoColor=whit" />
-    <img align="center" alt="mjcloud" src="https://img.shields.io/badge/Microsoft_Azure-4D4D4D?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-    <img align="center" alt="mjcloud" src="https://img.shields.io/badge/Azure Virtual Desktop-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" />    
-    <img align="center" alt="mjcloud" src="https://img.shields.io/badge/terraform-4D4D4D.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-    <img align="center" alt="mjcloud" src="https://img.shields.io/badge/kubernetes-4D4D4D.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-    <img align="center" alt="mjcloud" src="https://img.shields.io/badge/Powershell-4D4D4D?style=for-the-badge&logo=powershell&logoColor=white" />
-    <img align="center" alt="mjcloud" src="https://img.shields.io/badge/Powershell-4D4D4D?style=for-the-badge&logo=powershell&logoColor=white" />
-    <img align="center" alt="mjcloud" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
+    <img align="center" alt="mjcloud" src="https://img.shields.io/badge/Microsoft-21759B?style=for-the-badge&logo=microsoft&logoColor=whit" />
+    <img align="center" alt="mjcloud" src="https://img.shields.io/badge/Microsoft_Azure-21759B?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <img align="center" alt="mjcloud" src="https://img.shields.io/badge/Azure Virtual Desktop-21759B?style=for-the-badge&logo=windows&logoColor=white" />    
+    <img align="center" alt="mjcloud" src="https://img.shields.io/badge/terraform-21759B.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+    <img align="center" alt="mjcloud" src="https://img.shields.io/badge/kubernetes-21759B.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+    <img align="center" alt="mjcloud" src="https://img.shields.io/badge/Powershell-21759B?style=for-the-badge&logo=powershell&logoColor=white" />
+    <img align="center" alt="mjcloud" src="https://img.shields.io/badge/Powershell-21759B?style=for-the-badge&logo=powershell&logoColor=white" />
+    <img align="center" alt="mjcloud" src="https://img.shields.io/badge/windows%20terminal-21759B?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
 </div><br/>
 Apaixonado por tecnologia, seguimos com a jornada de compartilhamento de conhecimento para o nosso crescimento e o cresimento do próximo.
 

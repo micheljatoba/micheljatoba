@@ -7,7 +7,7 @@ Meu nome é Michel Jatobá, sou especialista em Infraestrutura e Security no Azu
 
 - ⭐ Sou [Microsoft MVP Reconnect - Microsoft Azure](https://mvp.microsoft.com/pt-br/PublicProfile/5003808?fullName=Michel%20Jatoba)
 
-- 🔭 Atualmente atuo como CSA-Engineering na Microsoft
+- 🔭 Atualmente atuo como Cloud Solution Architecture na Microsoft
 
 - 👯 Compartilho conteúdos sobre Infraestrutura e Security em meu novo blog [MJ Cloud Tecnologia](https://mjcloud.com.br)
 

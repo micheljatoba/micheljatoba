@@ -30,6 +30,11 @@ Apaixonado por tecnologia, seguimos com a jornada de compartilhamento de conheci
 - [Novo artigo](https://mjcloud.com.br)<br/>
 - [Novo artigo](https://mjcloud.com.br)<br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 ![Snake animation](https://github.com/micheljatoba/micheljatoba/blob/output/github-contribution-grid-snake.svg)<br/>
 
 ## Obrigado pessoal! 😁🤜🤛👍

@@ -11,7 +11,7 @@ Meu nome é Michel Jatobá, sou especialista em Infraestrutura e Security no Azu
 
 - 👯 Compartilho conteúdos sobre Infraestrutura e Security em meu novo blog [MJ Cloud Tecnologia](https://mjcloud.com.br)
 
-![Michel Jatobá stats](https://github-readme-stats.vercel.app/api?username=micheljatoba&show_icons=true&theme=dark&include_all_commits=true&count_private=true) 
+
 
 ### Tecnologias que eu uso no meu dia 
 <div style="display: inline_block"><br/>

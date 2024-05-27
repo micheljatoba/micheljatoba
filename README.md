@@ -25,8 +25,11 @@ Meu nome é Michel Jatobá, sou especialista em Infraestrutura e Security no Azu
 </div><br/>
 Apaixonado por tecnologia, seguimos com a jornada de compartilhamento de conhecimento para o cresimento do próximo e o nosso!
 ### Último Artigos:
+
+- [Novo Blog feito por AI! ](https://mjcloud.com.br)<br/>
 - [Novo artigo](https://mjcloud.com.br)<br/>
 - [Novo artigo](https://mjcloud.com.br)<br/>
+
 ![Snake animation](https://github.com/micheljatoba/micheljatoba/blob/output/github-contribution-grid-snake.svg)<br/>
 
 ## Obrigado pessoal! 😁🤜🤛👍

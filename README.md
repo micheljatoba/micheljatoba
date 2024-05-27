@@ -24,14 +24,9 @@ Meu nome é Michel Jatobá, sou especialista em Infraestrutura e Security no Azu
     <img align="center" alt="mjcloud" src="https://img.shields.io/badge/windows%20terminal-21759B?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
 </div><br/>
 Apaixonado por tecnologia, seguimos com a jornada de compartilhamento de conhecimento para o cresimento do próximo e o nosso!
-
 ### Último Artigos:
 - [Novo artigo](https://mjcloud.com.br)<br/>
 - [Novo artigo](https://mjcloud.com.br)<br/>
-- [Novo artigo](https://mjcloud.com.br)<br/>
-- [Novo artigo](https://mjcloud.com.br)<br/>
-- [Novo artigo](https://mjcloud.com.br)<br/>
-
 ![Snake animation](https://github.com/micheljatoba/micheljatoba/blob/output/github-contribution-grid-snake.svg)<br/>
 
 ## Obrigado pessoal! 😁🤜🤛👍
